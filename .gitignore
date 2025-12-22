@@ -1,0 +1,28 @@
+# LaTeX temporary files
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+*.bbl
+*.blg
+*.lof
+*.lot
+*.idx
+*.ind
+*.ilg
+*.gz
+*.pdfsync
+*.bak
+*.nav
+*.snm
+*.vrb
+
+# PDF (se non vuoi tracciare il pdf compilato)
+# paper_v4.pdf
+
+# OS files
+.DS_Store
+Thumbs.db
